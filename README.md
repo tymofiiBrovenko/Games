@@ -17,6 +17,8 @@ A memory game built with Arduino. The board shows you a sequence of flashing lig
 
 <img width="1126" height="509" alt="image" src="https://github.com/user-attachments/assets/93db104f-5187-4eb8-925f-2f2a25f42673" />
 
+## Real Life
+<img width="2346" height="1759" alt="IMG_20260402_162133183" src="https://github.com/user-attachments/assets/49961b12-0800-4b7b-8c8e-fb8487d997c8" />
 
 ---
 
