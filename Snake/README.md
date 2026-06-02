@@ -31,6 +31,6 @@ A classic Snake game built with an ESP32. The game is displayed on an 8x8 LED ma
 | 8x8 LED Matrix | 1 |
 | 4x4 Keypad | 1 |
 | 74HC595 Shift Register | 1 |
-| Resistor 330 Ω | 8 |
+| Resistor 220 Ω | 8 |
 | Resistor 10k Ω | 4 |
 | Breadboard | 1 |
