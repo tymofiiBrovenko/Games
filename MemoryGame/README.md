@@ -9,7 +9,7 @@ A memory game built with Arduino. The board shows you a sequence of flashing lig
 1. Watch the LEDs flash in a sequence.
 2. Press the buttons in the same order.
 3. Each round adds one more step.
-4. Wrong button? The buzzer sounds and all LEDs flash - game resets.
+4. If your combination is wrong the buzzer sounds and all LEDs flash - game resets.
 
 ---
 
