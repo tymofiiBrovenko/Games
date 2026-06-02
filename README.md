@@ -1,4 +1,4 @@
-# Arduino Memory Game1 V1
+# Arduino Memory Game
 
 A memory game built with Arduino. The board shows you a sequence of flashing lights - your job is to repeat it by pressing the matching buttons. Every round the sequence gets one step longer. Miss a button and the game starts over.
 
