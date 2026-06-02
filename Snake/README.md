@@ -16,7 +16,8 @@ A classic Snake game built with an ESP32. The game is displayed on an 8x8 LED ma
 
 ## Wiring
 
-<img width="543" height="601" alt="image" src="https://github.com/user-attachments/assets/71a1ed5e-d58d-4fc4-877f-0bf4e0018832" />
+<img width="632" height="638" alt="image" src="https://github.com/user-attachments/assets/95046f3a-1842-4518-a0ae-7a94bca9bbe2" />
+
 
 
 * **Shift Register:** DATA to pin 14, LATCH to pin 13, CLOCK to pin 12.
