@@ -1,4 +1,4 @@
-# ESP32 Matrix Snake
+# ESP32 + LED Matrix Snake
 
 A classic Snake game built with an ESP32. The game is displayed on an 8x8 LED matrix and controlled with a matrix keypad. The code is structured to update the display continuously in the background, keeping the gameplay and screen rendering smooth.
 
