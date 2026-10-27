@@ -4906,6 +4906,17 @@
 			)
 		)
 	)
+	(gr_rect
+		(start 103 63)
+		(end 167 118.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "d1e75fdb-d029-477f-862d-2bf9fe493ea0")
+	)
 	(gr_text "${REFERENCE}"
 		(at 121.5 81 90)
 		(layer "B.Fab")
